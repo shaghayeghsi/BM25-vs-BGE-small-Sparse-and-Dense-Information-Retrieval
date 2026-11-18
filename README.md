@@ -206,6 +206,4 @@ The results demonstrate the practical value of dense retrieval models for semant
 
 ---
 
-**Author:** Your Name
-
 **Focus Areas:** Artificial Intelligence | Machine Learning | NLP | Information Retrieval | Semantic Search
